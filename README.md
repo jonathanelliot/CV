@@ -1,13 +1,13 @@
 ## Jonathan Elliot
 
-[Key Skills](##skills) | [Project Portfolio](##projects) | [Education](##education) | [Previous Employment](##employment) | [Interests](##interests)
+[Key Skills](#key-skills) | [Project Portfolio](#project-portfolio) | [Education](#education) | [Previous Employment](#previous-employment) | [Interests](#interests)
 
 A former Royal Marine who has decided to go for a complete career change by learning to code over 16 weeks at Makers Academy. A reliable and adaptable professional with an eye for attention to detail. Excellent organisational, interpersonal and communication skills.
 
 I'm looking for a Full Stack Junior Developer role in the South West of England where I can continue to learn something new every day, in an organisation that loves developing both great software and it's people.
 
 
-## <a name ="skills">Key Skills
+## Key Skills
 
 #### I Can Code
 
