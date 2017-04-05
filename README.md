@@ -7,7 +7,7 @@ A former Royal Marine who has decided to go for a complete career change by lear
 I'm looking for a Full Stack Junior Developer role in the South West of England where I can continue to learn something new every day, in an organisation that loves developing both great software and it's people.
 
 
-## Key Skills
+## <a name ="skills">Key Skills
 
 #### I Can Code
 
@@ -24,7 +24,7 @@ In the Royal Marines my job role and location changed roughly every 2 years. Ada
 
 #### I am Organised
 
-My military training has a lot to do with this. I like to know where everything is; from my socks to the files on my computer. During the Makers Academy course I had to work to tight deadlines. I was constantly working to deadlines in my role as a boat coxswain in the Royal Marines. 
+My military training has a lot to do with this. I like to know where everything is; from my socks to the files on my computer. During the Makers Academy course I had to work to tight deadlines. I was constantly working to deadlines in my role as a boat coxswain in the Royal Marines.
 
 
 ## Project Portfolio
